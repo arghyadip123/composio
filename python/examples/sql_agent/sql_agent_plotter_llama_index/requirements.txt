@@ -4,3 +4,4 @@ composio-llamaindex
 python-dotenv
 langchain-openai
 crew-ai
+llama-index>=0.10.38 # not directly required, pinned by Snyk to avoid a vulnerability
