@@ -3,3 +3,4 @@ composio-langchain
 composio-llamaindex
 python-dotenv
 langchain-openai
+llama-index>=0.10.38 # not directly required, pinned by Snyk to avoid a vulnerability
