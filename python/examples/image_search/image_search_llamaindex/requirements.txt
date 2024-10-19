@@ -7,3 +7,4 @@ sentence-transformers
 open-clip-torch
 composio-llamaindex
 llama-index-llm-openai
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
