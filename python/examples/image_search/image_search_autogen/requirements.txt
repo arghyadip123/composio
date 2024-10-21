@@ -7,3 +7,4 @@ sentence-transformers
 open-clip-torch
 composio-autogen
 autogen
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
