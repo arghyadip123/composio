@@ -9,3 +9,4 @@ langchain_community
 langchain_google_genai
 langchain_openai
 openai
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
