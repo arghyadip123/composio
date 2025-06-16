@@ -3,3 +3,5 @@ composio-langchain
 composio-llamaindex
 python-dotenv
 langchain-openai
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
