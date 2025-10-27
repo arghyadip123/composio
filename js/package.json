@@ -32,7 +32,7 @@
     "@langchain/openai": "^0.1.2",
     "axios": "^1.7.2",
     "enumify": "^2.0.0",
-    "hono": "^4.4.11",
+    "hono": "^4.10.2",
     "langchain": "^0.2.5",
     "openai": "^4.50.0",
     "pusher-js": "8.4.0-rc2",
