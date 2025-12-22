@@ -7,3 +7,5 @@ sentence-transformers
 open-clip-torch
 composio-autogen
 autogen
+filelock>=3.20.1 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
