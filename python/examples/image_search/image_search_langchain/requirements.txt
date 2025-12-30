@@ -7,3 +7,4 @@ sentence-transformers
 open-clip-torch
 composio-langchain
 langchain-openai
+transformers>=5.0.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
