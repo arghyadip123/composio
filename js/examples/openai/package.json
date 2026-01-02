@@ -12,6 +12,6 @@
   "type": "module",
   "dependencies": {
     "composio-core": "^0.1.4",
-    "express": "^4.19.2"
+    "express": "^4.22.0"
   }
 }
