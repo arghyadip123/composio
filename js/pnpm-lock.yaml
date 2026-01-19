@@ -27,8 +27,8 @@ dependencies:
     specifier: ^2.0.0
     version: 2.0.0
   hono:
-    specifier: ^4.4.11
-    version: 4.4.12
+    specifier: ^4.11.4
+    version: 4.11.4
   langchain:
     specifier: ^0.2.5
     version: 0.2.5(axios@1.7.2)(openai@4.51.0)
@@ -1522,9 +1522,9 @@ packages:
       function-bind: 1.1.2
     dev: true
 
-  /hono@4.4.12:
-    resolution: {integrity: sha512-Lx4Vwbws0IqFfXIVYychxUW0A4EE+7dn/jsjVeM34OXSA2Xs45MkDDP14Mzznp7LlDemUNHQG2uv2N5jQld0hA==}
-    engines: {node: '>=16.0.0'}
+  /hono@4.11.4:
+    resolution: {integrity: sha512-U7tt8JsyrxSRKspfhtLET79pU8K+tInj5QZXs1jSugO1Vq5dFj3kmZsRldo29mTBfcjDRVRXrEZ6LS63Cog9ZA==}
+    engines: {node: '>=16.9.0'}
     dev: false
 
   /human-signals@5.0.0:
