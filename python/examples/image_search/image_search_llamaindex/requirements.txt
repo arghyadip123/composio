@@ -7,3 +7,4 @@ sentence-transformers
 open-clip-torch
 composio-llamaindex
 llama-index-llm-openai
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
